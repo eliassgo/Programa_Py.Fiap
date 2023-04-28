@@ -1,5 +1,4 @@
 #Nome: Elias Gomes De Oliveira Junior
-#RM: 552381
 
 #solicitar ao usuário o tempo, em anos, que ele fuma
 tempo = float(input("Quanto tempo, em anos, você fuma? "))
